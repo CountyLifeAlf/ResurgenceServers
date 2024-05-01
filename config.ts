@@ -6,7 +6,7 @@ export const config: Config = {
   logoURL: "/images/logo.png",
   site: {
     url: "https://www.dayzresurgence.com/",
-    title: "Resurgence DayZ",
+    title: "",
     twitter: {
       site: "@site",
       creator: "@creator",
@@ -74,8 +74,8 @@ export const config: Config = {
     },
   },
   hero: {
-    title: "We listen, we learn, we deliver.",
-    description: "Our DayZ Community is built on the principles of transparency, integrity, and trust. We are committed to providing the best experience for our players. Wether you are a seasoned veteran or a new player, we have a place for you.",
+    title: "Resurgence DayZ.",
+    description: "",
     background: {
       color: 'rgb(51 65 85)',
       image: {
