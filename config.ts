@@ -2,7 +2,7 @@ import { Config } from './src/lib/config.types';
 
 export const config: Config = {
   runtime: 'nodejs',
-  themeColor: "#c3050f",
+  themeColor: "#5789f6",
   logoURL: "/images/logo.png",
   site: {
     url: "https://www.dayzresurgence.com/",
@@ -75,7 +75,7 @@ export const config: Config = {
   },
   hero: {
     title: "Resurgence DayZ.",
-    description: "Join one of the newest fastest growing modded DayZ communities",
+    description: "Suck peen play clean!",
     background: {
       color: 'rgb(51 65 85)',
       image: {
