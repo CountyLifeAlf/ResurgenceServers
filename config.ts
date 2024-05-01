@@ -75,7 +75,7 @@ export const config: Config = {
   },
   hero: {
     title: "Resurgence DayZ.",
-    description: "",
+    description: "test",
     background: {
       color: 'rgb(51 65 85)',
       image: {
