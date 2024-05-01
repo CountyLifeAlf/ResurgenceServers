@@ -22,7 +22,7 @@ export const config: Config = {
   pages: {
     home: {
       title: "Home | Resurgence Community",
-      description: "Welcome to the Resurgence Community! We are a DayZ community that is dedicated to providing the best experience for our players. Join us today!",
+      description: "Welcome to the Resurgence!",
       sections: {
         network: {
           title: "Resurgence EU",
