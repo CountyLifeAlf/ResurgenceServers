@@ -30,7 +30,7 @@ export const config: Config = {
         },
         about: {
           title: "About Us",
-          description: "We are a community of DayZ players who are passionate about the game and the experiences it provides. We strive to provide a safe and enjoyable environment for all players.",
+          description: "DayZ Resurgence offers an immersive and action-packed experience with a wide range of features and customizations. Engage in intense PvP battles with other survivors. Build, Raid & fight to win events come try us out..",
           rows: {
             1: {
               title: "Events",
