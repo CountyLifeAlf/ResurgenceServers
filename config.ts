@@ -5,7 +5,7 @@ export const config: Config = {
   themeColor: "#5789f6",
   logoURL: "/images/logo.png",
   site: {
-    url: "https://www.skvad.eu/",
+    url: "https://www.dayzresurgence.com/",
     title: "Resurgence Community",
     twitter: {
       site: "@site",
