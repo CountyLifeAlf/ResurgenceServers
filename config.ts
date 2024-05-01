@@ -6,7 +6,7 @@ export const config: Config = {
   logoURL: "/images/logo.png",
   site: {
     url: "https://www.dayzresurgence.com/",
-    title: "Resurgence Community",
+    title: "Resurgence DayZ",
     twitter: {
       site: "@site",
       creator: "@creator",
