@@ -6,7 +6,7 @@ export const config: Config = {
   logoURL: "/images/logo.png",
   site: {
     url: "https://www.skvad.eu/",
-    title: "SKVAD Community",
+    title: "Resurgence Community",
     twitter: {
       site: "@site",
       creator: "@creator",
@@ -14,18 +14,18 @@ export const config: Config = {
       images: [
         {
           url: "/images/marketing/banner.png",
-          alt: "Marketing Banner for SKVAD Community",
+          alt: "Marketing Banner for Resurgence Community",
         },
       ],
     },
   },
   pages: {
     home: {
-      title: "Home | SKVAD Community",
-      description: "Welcome to the SKVAD Community! We are a DayZ community that is dedicated to providing the best experience for our players. Join us today!",
+      title: "Home | Resurgence Community",
+      description: "Welcome to the Resurgence Community! We are a DayZ community that is dedicated to providing the best experience for our players. Join us today!",
       sections: {
         network: {
-          title: "Server Network",
+          title: "Resurgence EU",
           description: "Our DayZ servers are hosted in Europe and are maintained by our dedicated team of developers and system administrators.",
         },
         about: {
@@ -66,8 +66,8 @@ export const config: Config = {
           title: "Contact Us",
           description: "If you have any questions or concerns, please don't hesitate to contact us through the following channels.",
           links: {
-            'Discord': "https://discord.gg/skvad",
-            'Email': "mailto:info@skvad.eu",
+            'Discord': "https://discord.gg/48UA4cmzsR",
+            'Email': "resurgenceserver@gmail.com",
           },
         },
       },
@@ -85,30 +85,16 @@ export const config: Config = {
     },
     cta: {
       label: "Join us today!",
-      href: "https://discord.gg/mirasaki",
+      href: "https://discord.gg/48UA4cmzsR",
     },
   },
   servers: [
     {
-      name: 'SKVAD EU1',
-      ipv4: '193.25.252.921',
+      name: 'Resurgence EU',
+      ipv4: '51.195.189.110',
       gamePort: 2302,
       steamQueryPort: 27016,
-      cftoolsApiId: '7732f152-3b6b-4da5-9356-b43ebfef2012',
-    },
-    {
-      name: 'SKVAD EU2',
-      ipv4: '193.25.252.24',
-      gamePort: 2302,
-      steamQueryPort: 27016,
-      cftoolsApiId: '40dfcdf1-2e38-4a86-8b36-f02e4c868bf5',
-    },
-    {
-      name: 'SKVAD EU3',
-      ipv4: '193.25.252.24',
-      gamePort: 2402,
-      steamQueryPort: 27017,
-      cftoolsApiId: '16c3c8d1-9e15-4729-a541-8a578288e43d',
+      cftoolsApiId: '802ee185-38a8-4eb7-bc02-949e55087a5e',
     },
   ],
   cftools: {
@@ -121,11 +107,11 @@ export const config: Config = {
     },
   },
   footer: {
-    trademarkNotice: "The DayZ logo is a registered trademark of Bohemia Interactive a.s. SKVAD is not affiliated with Bohemia Interactive a.s. or DayZ. All other trademarks are the property of their respective owners.",
-    brandingName: "SKVAD Community",
+    trademarkNotice: "The DayZ logo is a registered trademark of Bohemia Interactive a.s. Resurgence is not affiliated with Bohemia Interactive a.s. or DayZ. All other trademarks are the property of their respective owners.",
+    brandingName: "Resurgence Community",
     brandingURL: '/',
     initialCopyrightYear: 2021,
-    copyrightBrandName: "SKVAD",
+    copyrightBrandName: "Resurgence",
     copyrightBrandUrl: '/',
     links: [
       {
