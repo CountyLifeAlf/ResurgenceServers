@@ -2,7 +2,7 @@ import { Config } from './src/lib/config.types';
 
 export const config: Config = {
   runtime: 'nodejs',
-  themeColor: "#5789f6",
+  themeColor: "#c3050f",
   logoURL: "/images/logo.png",
   site: {
     url: "https://www.dayzresurgence.com/",
