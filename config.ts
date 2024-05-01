@@ -75,7 +75,7 @@ export const config: Config = {
   },
   hero: {
     title: "Resurgence DayZ.",
-    description: "test",
+    description: "Join one of the newest fastest growing modded DayZ communities",
     background: {
       color: 'rgb(51 65 85)',
       image: {
@@ -117,30 +117,6 @@ export const config: Config = {
       {
         url: '#',
         label: 'About',
-      },
-      {
-        url: '#',
-        label: 'Meet the Team',
-      },
-      {
-        url: '#',
-        label: 'Campaigns',
-      },
-      {
-        url: '#',
-        label: 'Blog',
-      },
-      {
-        url: '#',
-        label: 'Affiliate Program',
-      },
-      {
-        url: '#',
-        label: 'FAQs',
-      },
-      {
-        url: '#',
-        label: 'Contact',
       },
     ],
   },
