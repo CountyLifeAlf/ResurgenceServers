@@ -26,7 +26,7 @@ export const config: Config = {
       sections: {
         network: {
           title: "Resurgence EU",
-          description: "Our DayZ servers are hosted in Europe and are maintained by our dedicated team of developers and system administrators.",
+          description: "Join The Resurgence.",
         },
         about: {
           title: "About Us",
